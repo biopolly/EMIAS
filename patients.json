@@ -1,9 +1,135 @@
 [
   {
-    "full_name": "ghj",
-    "age": 34,
+    "full_name": "Котик Котенкович Котиков",
+    "age": 4,
     "gender": "М",
-    "height": 123.0,
-    "weight": 56.0
+    "height": 40.0,
+    "weight": 3.0
+  },
+  {
+    "full_name": "Некрасов Аполлинарий Болеславовна",
+    "age": 71,
+    "gender": "М",
+    "height": 184,
+    "weight": 78
+  },
+  {
+    "full_name": "Филиппов Андрон Витальевич",
+    "age": 19,
+    "gender": "М",
+    "height": 183,
+    "weight": 90
+  },
+  {
+    "full_name": "Сазонов Леонтий Антипович",
+    "age": 25,
+    "gender": "М",
+    "height": 171,
+    "weight": 85
+  },
+  {
+    "full_name": "Красильников Еремей Бориславович",
+    "age": 33,
+    "gender": "М",
+    "height": 170,
+    "weight": 50
+  },
+  {
+    "full_name": "Жуков Фотий Вячеславовна",
+    "age": 51,
+    "gender": "М",
+    "height": 153,
+    "weight": 78
+  },
+  {
+    "full_name": "Афанасьев Ипполит Гавриилович",
+    "age": 66,
+    "gender": "М",
+    "height": 164,
+    "weight": 66
+  },
+  {
+    "full_name": "Наумова Евдокия Натановна",
+    "age": 59,
+    "gender": "Ж",
+    "height": 169,
+    "weight": 87
+  },
+  {
+    "full_name": "Федосеева Елизавета Юльевич",
+    "age": 47,
+    "gender": "Ж",
+    "height": 172,
+    "weight": 75
+  },
+  {
+    "full_name": "Якушев Адриан Тимуровна",
+    "age": 22,
+    "gender": "М",
+    "height": 173,
+    "weight": 97
+  },
+  {
+    "full_name": "Жуков Борис Семеновна",
+    "age": 63,
+    "gender": "М",
+    "height": 170,
+    "weight": 76
+  },
+  {
+    "full_name": "Капустина София Викторовна",
+    "age": 56,
+    "gender": "Ж",
+    "height": 173,
+    "weight": 59
+  },
+  {
+    "full_name": "Анисимов Мечислав Владиленович",
+    "age": 49,
+    "gender": "М",
+    "height": 157,
+    "weight": 91
+  },
+  {
+    "full_name": "Кулагин Алексей Захарьевич",
+    "age": 55,
+    "gender": "М",
+    "height": 171,
+    "weight": 53
+  },
+  {
+    "full_name": "Третьяков Емельян Гордеевич",
+    "age": 74,
+    "gender": "М",
+    "height": 183,
+    "weight": 82
+  },
+  {
+    "full_name": "Гришин Гордей Ярославович",
+    "age": 77,
+    "gender": "М",
+    "height": 165,
+    "weight": 73
+  },
+  {
+    "full_name": "Тихонова Нонна Валентиновна",
+    "age": 19,
+    "gender": "Ж",
+    "height": 189,
+    "weight": 85
+  },
+  {
+    "full_name": "Дроздова Прасковья Адрианович",
+    "age": 80,
+    "gender": "Ж",
+    "height": 163,
+    "weight": 64
+  },
+  {
+    "full_name": "Копылов Влас Федосеевич",
+    "age": 77,
+    "gender": "М",
+    "height": 185,
+    "weight": 76
   }
 ]
