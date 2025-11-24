@@ -123,7 +123,8 @@ bash
 
 bash
 `pip install --upgrade Pillow`
--Лицензия
+
+## Лицензия
 MIT License - свободное использование и модификация.
 
 ## Вклад в проект
